@@ -1,0 +1,52 @@
+- name: Sijia Liu
+  photo: sijia.png
+  info: Assistant Professor @Michigan State University, Affiliated Professor @MIT-IBM Watson AI Lab.
+  email: liusiji5@msu.edu
+  url: https://lsjxjtu.github.io/
+  number_educ: 3
+  education1: Ph.D. Electrical and Computer Engineering, Syracuse University, USA
+  education2: M.Sc. Electrical Engineering, Xi’an Jiaotong University, China
+  education3: B.S., Electrical Engineering, Xi’an Jiaotong University, China
+  
+- name: Yuguang(Tony) Yao
+  photo: yuguang.png
+  info: Ph.D. student, Computer Science, Michigan State University (Spring 2021 - current)
+  email: yaoyugua@msu.edu
+  url: https://yuguang.me/
+  number_educ: 1
+  education1: B.S., Automation, Tsinghua University, China
+  
+- name: Yimeng(Damon) Zhang
+  photo: yimeng.png
+  info: PhD student, Computer Science, Michigan State University (Spring 2021 - current)
+  email: zhan1853@msu.edu
+  url: https://damon-demon.github.io/
+  number_educ: 2
+  education1: M.Sc. Electrical Engineering, Columbia University, USA
+  education2: B.Eng. Electrical and Electronic Engineering, University of Sheffield, UK
+
+- name: Jinghan Jia
+  photo: jinghan.png
+  info: PhD student, Computer Science, Michigan State University (Fall 2021 - current)
+  email: jiajingh@msu.edu
+  url: https://github.com/jinghanjia
+  number_educ: 2
+  education1: M.S. Electrical and Computer Engineering, University of Florida, USA
+  education2: B.S. Computer Science, University of Science and Technology of China, China
+
+- name: Yihua Zhang
+  photo: yihua.png
+  info: PhD student, Computer Science, Michigan State University (Spring 2022 - current)
+  email: zhan1908@msu.edu
+  url: https://www.yihua-zhang.com
+  number_educ: 1
+  education1: B.Eng. Mechanical Engineering, Huazhong University of Science and Technology, China
+     
+- name: Aochuan(Arthur) Chen
+  photo: aochuan.png
+  info: PhD Student, Computer Science, Michigan State University (Incoming)
+  email: chenaoch@msu.edu 
+  url: https://www.phoveran.com/
+  number_educ: 1
+  education1: B.S. Automation, Tsinghua University, China
+  

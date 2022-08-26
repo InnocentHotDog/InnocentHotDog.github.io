@@ -1,0 +1,662 @@
+- title: "Distributed Adversarial Training to Robustify Deep Neural Networks at Scale"
+  image: dummy.png
+  description:
+  authors:
+    "G. Zhang*, S. Lu*, <span style='color:blue'>Y. Zhang*</span>, X. Chen, P. Chen, Q. Fan, L. Martie, L. Horesh, M. Hong, and <span style='color:blue'>S. Liu</span>"
+  link:
+    url: https://arxiv.org/pdf/2206.06257.pdf
+    display: UAI’22 (<span style='color:red'>Oral, Best Paper Runner-up Award</span>)
+  highlight: 0
+  news2: 
+
+- title: "Revisiting and Advancing Fast Adversarial Training through the Lens of Bi-level Optimization"
+  image: dummy.png
+  description:
+  authors:
+    "<span style='color:blue'>Y. Zhang*</span>, <span style='color:black'>G. Zhang*</span>, P. Khanduri, M. Hong, S. Chang, and <span style='color:blue'>S. Liu</span>"
+  link:
+    url: https://arxiv.org/pdf/2112.12376.pdf
+    display: ICML'22.
+  highlight: 0
+  news2:
+
+- title: "Data-Efficient Double-Win Lottery Tickets from Robust Pre-training."
+  image: dummy.png
+  description:
+  authors:
+    "T. Chen*, H. Zhang*, Z. Zhang, S. Chang, <span style='color:blue'>S. Liu</span>, P. Chen, and Z. Wang"
+  link:
+    url: https://arxiv.org/pdf/2206.04762.pdf
+    display: ICML'22.
+  highlight: 0
+  news2:
+
+- title: "Revisiting Contrastive Learning through the Lens of Neighborhood Component Analysis: an Integrated Framework"
+  image: dummy.png
+  description:
+  authors: 
+    "C. Ko, J. Mohapatra, <span style='color:blue'>S. Liu</span>, P. Chen, L. Daniel, and L. Weng"
+  link:
+    url: https://arxiv.org/pdf/2112.04468.pdf
+    display: ICML'22.
+  highlight: 0
+  news2:
+
+- title: "Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling"
+  image: dummy.png
+  description:
+  authors: 
+    "H. Li, M. Weng, <span style='color:blue'>S. Liu</span>, P. Chen, and J. Xiong"
+  link:
+    url: 
+    display: ICML'22.
+  highlight: 0
+  news2:
+
+- title: "A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction"
+  image: dummy.png
+  description:
+  authors: 
+    "Y. Xie, D. Wang, P. Chen, J. Xiong, <span style='color:blue'>S. Liu</span>, S. Koyejo"
+  link:
+    url: 
+    display: NAACL'22.
+  highlight: 0
+  news2:
+
+- title: "Learning to Generate Image Source-Agnostic Universal Adversarial Perturbations"
+  image: dummy.png
+  description:
+  authors: 
+    "P. Zhao, P. Ram, S. Lu, <span style='color:blue'>Y. Yao</span>, D. Bouneffouf, X. Lin, <span style='color:blue'>S. Liu</span>"
+  link:
+    url: 
+    display: IJCAI’22
+  highlight: 0
+  news2:
+
+- title: "Proactive Image Manipulation Detection"
+  image: dummy.png
+  description:
+  authors: 
+    "V. Asnani, X. Yin, T. Hassner, <span style='color:blue'>S. Liu</span>, X. Liu"
+  link:
+    url: 
+    display: CVPR’22
+  highlight: 0
+  news2:
+
+- title: "Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free"
+  image: backdoor_cvpr22.png
+  description: "This paper revealed that for a backdoored model, Trojan features learned are more stable against pruning than benign features! We further observed the existence of the 'winning Trojan ticket' which preserves the Trojan attack performance while retaining chance-level performance on clean inputs. Further, we propose a clean data-free algorithm to detect and reverse engineer the Trojan attacks."
+  authors: 
+    "<span style='color:black'>T. Chen*</span>, <span style='color:black'>Z. Zhang*</span>, <span style='color:blue'>Y. Zhang*</span>, S. Chang, <span style='color:blue'>S. Liu</span>, Z. Wang"
+  link:
+    url: https://arxiv.org/pdf/2205.11819.pdf
+    display: CVPR’22
+  highlight: 1
+  news2:
+  post: backdoor_cvpr22
+
+- title: "Reverse Engineering of Imperceptible Adversarial Image Perturbations"
+  image: RED.png
+  description: "In this paper, we study the problem of Reverse Engineering of Deceptions (RED), with the goal to recover the attack toolchain signatures (e.g. adversarial perturbations and adversary salience image regions) from an adversarial instance. Our work makes a solid step towards formalizing the RED problem and developing a systematic RED pipeline, covering not only a solution method but also a complete set of evaluation metrics."
+  authors: 
+    "<span style='color:black'>Y. Gong*</span>, <span style='color:blue'>Y. Yao*</span>, Y. Li, Y. Zhang, X. Liu, X. Lin, <span style='color:blue'>S. Liu</span>"
+  link:
+    url: https://openreview.net/forum?id=gpp7cf0xdfN
+    display: ICLR’22
+  highlight: 1
+  news2:
+  post: 
+
+- title: "How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective"
+  image: black_box.png
+  description: "In this paper, we study the problem of black-box defense, aiming to secure black-box models against adversarial attacks using only input-output model queries. We integrate denoised smoothing (DS) with ZO (zerothorder) optimization to build a feasible black-box defense framework. We further propose ZO-AE-DS, which leverages autoencoder (AE) to bridge the gap between FO and ZO optimization."
+  authors: 
+    "<span style='color:blue'>Y. Zhang</span>, <span style='color:blue'>Y. Yao</span>, <span style='color:blue'>J. Jia</span>, J. Yi, M. Hong, S. Chang, <span style='color:blue'>S. Liu</span>"
+  link:
+    url: https://openreview.net/forum?id=W9G_ImpHlQd
+    display: "ICLR’22 (<span style='color:red'>spotlight, acceptance rate 5%</span>)"
+  highlight: 1
+  news2: 
+  post:
+
+- title: "How unlabeled data improve generalization in self-training? A one-hidden-layer theoretical analysis"
+  image: dummy.png
+  description: ""
+  authors: 
+    "S. Zhang, M. Wang, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, J. Xiong"
+  link:
+    url: https://openreview.net/forum?id=qiMXBIf4NfB
+    display: ICLR’22
+  highlight: 0
+  news2: 
+
+- title: "Optimizer Amalgamation"
+  image: dummy.png
+  description: ""
+  authors: 
+    "T. Huang, T. Chen, <span style='color:blue'>S. Liu</span>, S. Chang, L. Amini, Z. Wang"
+  link:
+    url: https://openreview.net/forum?id=VqzXzA9hjaX
+    display: ICLR’22
+  highlight: 0
+  news2: 
+
+- title: "Decentralized Learning for Overparameterized Problems: A Multi-Agent Kernel Approximation Approach"
+  image: dummy.png
+  description: ""
+  authors: 
+    "P. Khanduri, H. Yang, M. Hong, J. Liu, H.T. Wai, <span style='color:blue'>S. Liu</span>"
+  link:
+    url: https://openreview.net/forum?id=oj2yn1Q4Ett
+    display: ICLR’22
+  highlight: 0
+  news2: 
+
+- title: "Sign-MAML: Efficient Model-Agnostic Meta-Learning by SignSGD"
+  image: dummy.png
+  description: ""
+  authors: 
+    "C. Fan, P. Ram and <span style='color:blue'>S. Liu</span>"
+  link:
+    url: https://arxiv.org/pdf/2109.07497.pdf
+    display: NeurIPS Workshop MetaLearn, 2021
+  highlight: 0
+  news2: 
+
+- title: "Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?"
+  image: dummy.png
+  description: ""
+  authors: 
+    "X. Ma, G. Yuan, X. Shen, T. Chen, X. Chen, X. Chen, N. Liu, M. Qin, <span style='color:blue'>S. Liu</span>, Z. Wang, Y. Wang."
+  link:
+    url: https://arxiv.org/pdf/2107.00166.pdf
+    display: NeurIPS’21
+  highlight: 0
+  news2: 
+
+- title: "When does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?"
+  image: dummy.png
+  description: ""
+  authors: 
+    "L. Fan, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, G. Zhang, C. Gan."
+  link:
+    url: https://arxiv.org/pdf/2111.01124.pdf
+    display: NeurIPS’21
+  highlight: 0
+  news2: <a href="https://bdtechtalks.com/2021/11/18/contrastive-learning-adversarial-attacks/">TechTalks</a>
+
+- title: "MEST: Accurate and Fast Memory-Economic Sparse Training Framework on the Edge"
+  image: dummy.png
+  description: ""
+  authors: 
+    "G. Yuan, X. Ma, W. Niu, Z. Li, Z. Kong, N. Liu, Y. Gong, Z. Zhan, C. He, Q. Jin, S. Wang, M. Qin, B. Ren, Y. Wang, <span style='color:blue'>S. Liu</span>, X. Lin."
+  link:
+    url: https://arxiv.org/pdf/2110.14032.pdf
+    display: NeurIPS’21 (Spotlight)
+  highlight: 0
+  news2: 
+
+- title: "Adversarial Attack Generation Empowered by Min-Max Optimization"
+  image: dummy.png
+  description: ""
+  authors: 
+    "J. Wang, T. Zhang, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, J. Xu, M. Fardad, B. Li."
+  link:
+    url: https://arxiv.org/pdf/1906.03563.pdf
+    display: NeurIPS’21
+  highlight: 0
+  news2: 
+
+- title: "Why Lottery Ticket Wins? A Theoretical Perspective of Sample Complexity on Sparse Neural Networks"
+  image: dummy.png
+  description: ""
+  authors: 
+    S. Zhang, M. Wang, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, J. Xiong.
+  link:
+    url: https://openreview.net/pdf?id=UAjh00C0BhT
+    display: NeurIPS’21
+  highlight: 0
+  news2: 
+
+- title: "Lottery Ticket Preserves Weight Correlation: Is It Desirable or Not?"
+  image: dummy.png
+  description: ""
+  authors: 
+    N. Liu, G. Yuan, Z. Che, X. Shen, X. Ma, Q. Jin, J. Ren, J. Tang, <span style='color:blue'>S. Liu</span>, Y. Wang.
+  link:
+    url: http://proceedings.mlr.press/v139/liu21aa/liu21aa.pdf
+    display: ICML’21
+  highlight: 0
+  news2: 
+
+- title: "NPAS: A compiler-aware framework of unified network pruning and architecture search for beyond real-time mobile acceleration"
+  image: dummy.png
+  description: ""
+  authors: 
+    Z. Li, G. Yuan, W. Niu, Y. Li, P. Zhao, Y. Cai, X. Shen, Z. Zhan, Z. Kong, Q. Jin, Z. Chen, <span style='color:blue'>S. Liu</span>, K. Yang, Y. Wang, B. Ren, and X. Lin.
+  link:
+    url: https://arxiv.org/pdf/2012.00596.pdf
+    display: "CVPR’21 (<span style='color:red'>ORAL, acceptance rate 4%</span>)"
+  highlight: 0
+  news2: 
+
+- title: "The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models"
+  image: dummy.png
+  description: ""
+  authors: 
+    T. Chen, J. Frankle, S. Chang, <span style='color:blue'>S. Liu</span>, Y. Zhang, M. Carbin, and Z. Wang.
+  link:
+    url: https://arxiv.org/pdf/2012.06908.pdf
+    display: CVPR’21
+  highlight: 0
+  news2: 
+
+- title: "Hidden Cost of Randomized Smoothing"
+  image: dummy.png
+  description: ""
+  authors: 
+    J. Mohapatra, C.-Y. Ko, L. Weng, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, L. Daniel
+  link:
+    url: https://lsjxjtu.github.io/null
+    display: AISTATS’21
+  highlight: 0
+  news2: 
+
+- title: "Rate-Improved Inexact Augmented Lagrangian Method for Constrained Nonconvex Optimization"
+  image: dummy.png
+  description: ""
+  authors: 
+    Z. Li, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, S. Lu, Y. Xu
+  link:
+    url: https://arxiv.org/pdf/2007.01284.pdf
+    display: AISTATS’21
+  highlight: 0
+  news2: 
+
+- title: "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning"
+  image: dummy.png
+  description: ""
+  authors: 
+    R. Wang, K. Xu, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, T.-W. Weng, C. Gan, M. Wang
+  link:
+    url: https://openreview.net/pdf?id=o81ZyBCojoA
+    display: ICLR’21
+  highlight: 0
+  news2: 
+
+- title: "Robust Overfitting May be Mitigated by Properly Learned Smoothening"
+  image: dummy.png
+  description: ""
+  authors: 
+    T. Chen, Z. Zhang, <span style='color:blue'>S. Liu</span>, S. Chang, and Z. Wang
+  link:
+    url: https://openreview.net/pdf?id=qZzy5urZw9
+    display: ICLR’21
+  highlight: 0
+  news2: 
+
+- title: "Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning"
+  image: dummy.png
+  description: ""
+  authors: 
+    T. Chen, Z. Zhang, <span style='color:blue'>S. Liu</span>, S. Chang, and Z. Wang,
+  link:
+    url: https://openreview.net/pdf?id=LXMSvPmsm0g
+    display:  ICLR’21
+  highlight: 0
+  news2: 
+
+- title: "Generating Adversarial Computer Programs using Optimized Obfuscations"
+  image: dummy.png
+  description: ""
+  authors: 
+    S. Srikant, <span style='color:blue'>S. Liu</span>, T. Mitrovska, S. Chang, Q. Fan, G. Zhang, U.-M. O'Reilly
+  link:
+    url: https://openreview.net/pdf?id=PH5PH9ZO_4
+    display: ICLR’21
+  highlight: 0
+  news2: 
+
+- title: "Fast Training of Provably Robust Neural Networks by SingleProp"
+  image: dummy.png
+  description: ""
+  authors: 
+    A. Boopathy, L. Weng, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, G. Zhang, L. Daniel
+  link:
+    url: 
+    display: AAAI’21
+  highlight: 0
+  news2: 
+
+- title: "Self-Progressing Robust Training"
+  image: dummy.png
+  description: ""
+  authors: 
+    M. Cheng, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, S. Chang, C.-J. Hsieh, P. Das
+  link:
+    url: 
+    display: AAAI’21
+  highlight: 0
+  news2: 
+
+- title: "Achieving Real-Time Execution of 3D Convolutional Neural Networks on Mobile Devices"
+  image: dummy.png
+  description: ""
+  authors: 
+    W. Niu, M. Sun, Z. Li, J.-A. Chen, J. Guan, X. Shen, Y. Wang, <span style='color:blue'>S. Liu</span>, X. Lin, B. Ren
+  link:
+    url: 
+    display: AAAI’21
+  highlight: 0
+  news2: 
+
+- title: "The Lottery Ticket Hypothesis for the Pre-trained BERT Networks"
+  image: dummy.png
+  description: ""
+  authors: 
+    T. Chen, J. Frankle, S. Chang, <span style='color:blue'>S. Liu</span>, Y. Zhang, Z. Wang, M. Carbin
+  link:
+    url: https://arxiv.org/pdf/2007.12223.pdf
+    display: NeurIPS’20
+  highlight: 0
+  news2: <a href="https://news.mit.edu/2020/neural-model-language-1201">MIT News</a>
+
+- title: "Training Stronger Baselines for Learning to Optimize"
+  image: dummy.png
+  description: ""
+  authors: 
+    T. Chen, W. Zhang, J. Zhou, S. Chang, <span style='color:blue'>S. Liu</span>, L. Amini, Z. Wang
+  link:
+    url: https://arxiv.org/pdf/2010.09089.pdf
+    display: "NeurIPS’20 (<span style='color:red'>spotlight, acceptance rate 3%</span>)"
+  highlight: 0
+  news2: 
+
+- title: "Higher-Order Certification For Randomized Smoothing"
+  image: dummy.png
+  description: ""
+  authors: 
+    J. Mohapatra, C.-Y. Ko, L. Weng, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, L. Daniel
+  link:
+    url: https://arxiv.org/pdf/2010.06651.pdf
+    display: "NeurIPS’20 (<span style='color:red'>spotlight, acceptance rate 3%</span>)"
+  highlight: 0
+  news2: 
+
+- title: "Adversarial T-shirt! Evading Person Detectors in A Physical World"
+  image: dummy.png
+  description: ""
+  authors: 
+    K. Xu, G. Zhang, <span style='color:blue'>S. Liu</span>, Q. Fan, M. Sun, H. Chen, P.-Y. Chen, Y. Wang, X. Lin
+  link:
+    url: https://arxiv.org/pdf/1910.11099.pdf
+    display: "ECCV’20 (<span style='color:red'>spotlight, acceptance rate 5%</span>)"
+  highlight: 0
+  news2: 
+
+- title: "Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases"
+  image: dummy.png
+  description: ""
+  authors: 
+    R. Wang, G. Zhang, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, J. Xiong, M. Wang
+  link:
+    url: https://arxiv.org/pdf/2007.15802.pdf
+    display: ECCV’20
+  highlight: 0
+  news2: 
+
+- title: "An Image Enhancing Pattern-based Sparsity for Real-time Inference on Mobile Devices"
+  image: dummy.png
+  description: ""
+  authors: 
+    X. Ma, W. Niu, T. Zhang, <span style='color:blue'>S. Liu</span>, S. Lin, H. Li, W. Wen, X. Chen, J. Tang, K. Ma, B. Ren, Y. Wang
+  link:
+    url: https://arxiv.org/pdf/2001.07710.pdf
+    display: ECCV’20
+  highlight: 0
+  news2: 
+
+- title: "Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case"
+  image: dummy.png
+  description: ""
+  authors: 
+    S. Zhang, M. Wang, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, J. Xiong
+  link:
+    url: https://arxiv.org/pdf/2006.14117.pdf
+    display: ICML’20
+  highlight: 0
+  news2: 
+
+- title: "Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing"
+  image: dummy.png
+  description: ""
+  authors: 
+    S. Dutta, D. Wei, H. Yueksel, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, K. R. Varshney
+  link:
+    url: https://arxiv.org/pdf/1910.07870.pdf
+    display: ICML’20
+  highlight: 0
+  news2: 
+
+- title: "Proper Network Interpretability Helps Adversarial Robustness in Classification"
+  image: dummy.png
+  description: ""
+  authors: 
+    A. Boopathy, <span style='color:blue'>S. Liu</span>, G. Zhang, C. Liu, P.-Y. Chen, S. Chang, L. Daniel
+  link:
+    url: https://arxiv.org/pdf/2006.14748.pdf
+    display: ICML’20
+  highlight: 0
+  news2: 
+
+- title: "Min-Max Optimization without Gradients: Convergence and Applications to Adversarial ML"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:blue'>S. Liu</span>*, <span style='color:black'>S. Lu*</span>, <span style='color:black'>X. Chen*</span>, <span style='color:black'>Y. Feng*</span>, <span style='color:black'>K. Xu*</span>, <span style='color:black'>A. Al-Dujaili*</span>, M. Hong, U.-M. O'Reilly"
+  link:
+    url: https://arxiv.org/pdf/1909.13806.pdf
+    display: ICML’20  
+  highlight: 0
+  news2: 
+
+- title: "Adversarial Robustness: From Self-Supervised Pretraining to Fine-Tuning"
+  image: dummy.png
+  description: ""
+  authors: 
+    T. Chen, <span style='color:blue'>S. Liu</span>, S. Chang, Y. Cheng, L. Amini, Z. Wang
+  link:
+    url: https://arxiv.org/pdf/2003.12862.pdf
+    display: CVPR’20
+  highlight: 0
+  news2: 
+
+- title: "Towards Verifying Robustness of Neural Networks against Semantic Perturbations"
+  image: dummy.png
+  description: ""
+  authors: 
+    J. Mohapatra, L. Weng, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, L. Daniel
+  link:
+    url: https://arxiv.org/pdf/1912.09533.pdf
+    display: "CVPR’20 (<span style='color:red'>ORAL, acceptance rate 5%</span>)"
+  highlight: 0
+  news2: 
+
+- title: "Sign-OPT: A Query-Efficient Hard-label Adversarial Attack"
+  image: dummy.png
+  description: ""
+  authors: 
+    M. Cheng, S. Singh, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, C.-J. Hsieh
+  link:
+    url: https://arxiv.org/pdf/1909.10773.pdf
+    display: ICLR’20
+  highlight: 0
+  news2: 
+
+- title: "An ADMM Based Framework for AutoML Pipeline Configuration"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:blue'>S. Liu*</span>, <span style='color:black'>P. Ram*</span>, D. Vijaykeerthy, D. Bouneffouf, G. Bramble, H. Samulowitz, D. Wang, A. Conn, A. Gray"
+  link:
+    url: https://arxiv.org/pdf/1905.00424.pdf
+    display: AAAI’20
+  highlight: 0
+  news2: 
+
+- title: "Towards Certificated Model Robustness Against Weight Perturbations"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:black'>L. Weng*</span>, <span style='color:black'>P. Zhao*</span>, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, X. Lin, L. Daniel"
+  link:
+    url: https://ojs.aaai.org//index.php/AAAI/article/view/6105
+    display: AAAI’20
+  highlight: 0
+  news2: 
+
+- title: "ZO-AdaMM: Zeroth-Order Adaptive Momentum Method for Black-Box Optimization"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:black'>X. Chen*</span>, <span style='color:blue'>S. Liu*</span>, <span style='color:black'>K. Xu*</span>, <span style='color:black'>X. Li*</span>, X. Lin, M. Hong, D. Cox"
+  link:
+    url: https://arxiv.org/pdf/1910.06513.pdf
+    display: NeurIPS’19
+  highlight: 0
+  news2: 
+
+- title: "Generation of Low Distortion Adversarial Attacks via Convex Programming"
+  image: dummy.png
+  description: ""
+  authors: 
+    "T. Zhang, <span style='color:blue'>S. Liu</span>, Y. Wang, M. Fardad"
+  link:
+    url: https://ieeexplore.ieee.org/document/8970743
+    display: ICDM’19
+  highlight: 0
+  news2: 
+
+- title: "On the Design of Black-box Adversarial Examples by Leveraging Gradient-free Optimization and Operator Splitting Method"
+  image: dummy.png
+  description: ""
+  authors: 
+    "P. Zhao, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, N. Hoang, K. Xu, B. Kailkhura, X. Lin"
+  link:
+    url: https://arxiv.org/pdf/1907.11684.pdf
+    display: ICCV’19
+  highlight: 0
+  news2: 
+
+- title: "Adversarial Robustness vs. Model Compression, or Both?"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:black'>S. Ye*</span>, <span style='color:black'>K. Xu*</span>, <span style='color:blue'>S. Liu</span>, H. Cheng, J.-H. Lambrechts, H. Zhang, A. Zhou, K. Ma, Y. Wang, X. Lin"
+  link:
+    url: https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf
+    display: ICCV’19
+  highlight: 0
+  news2: 
+
+- title: "Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:black'>K. Xu*</span>, <span style='color:black'>H. Chen*</span>, <span style='color:blue'>S. Liu</span>, P.-Y. Chen, T.-W. Wen, M. Hong, X. Lin"
+  link:
+    url: https://arxiv.org/pdf/1906.04214.pdf
+    display: IJCAI’19
+  highlight: 0
+  news2: 
+
+- title: "Fast Incremental von Neumann Graph Entropy Computation: Theory, Algorithm, and Applications"
+  image: dummy.png
+  description: ""
+  authors: 
+    "P.-Y. Chen, L. Wu, <span style='color:blue'>S. Liu</span>, I. Rajapakse"
+  link:
+    url: https://arxiv.org/pdf/1805.11769.pdf
+    display: ICML’19
+  highlight: 0
+  news2: 
+
+- title: "signSGD via Zeroth-Order Oracle"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:blue'>S. Liu</span>, P.-Y. Chen, X. Chen, M. Hong"
+  link:
+    url: https://openreview.net/pdf?id=BJe-DsC5Fm
+    display: ICLR’19
+  highlight: 0
+  news2: 
+
+- title: "Structured Adversarial Attack: Towards General Implementation and Better Interpretability"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:black'>K. Xu*</span>, <span style='color:blue'>S. Liu*</span>, P. Zhao, P.-Y. Chen, H. Zhang, D. Erdogmus, Y. Wang, X. Lin"
+  link:
+    url: https://openreview.net/pdf?id=BkgzniCqY7
+    display: ICLR’19
+  highlight: 0
+  news2: 
+
+- title: "On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization"
+  image: dummy.png
+  description: ""
+  authors: 
+    "X. Chen, <span style='color:blue'>S. Liu</span>, R. Sun, M. Hong"
+  link:
+    url: https://openreview.net/pdf?id=H1x-x309tm
+    display: ICLR’19
+  highlight: 0
+  news2: 
+
+- title: "CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks"
+  image: dummy.png
+  description: ""
+  authors: 
+    "A. Boopathy, L. Weng, P.-Y. Chen, <span style='color:blue'>S. Liu</span>, L. Daniel"
+  link:
+    url: https://arxiv.org/pdf/1811.12395.pdf
+    display: AAAI’19
+  highlight: 0
+  news2: 
+
+- title: "AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:black'>C.-C. Tu*</span>, <span style='color:black'>P. Ting*</span>, <span style='color:black'>P.-Y. Chen*</span>, <span style='color:blue'>S. Liu</span>, H. Zhang, J. Yi, C.-J. Hsieh, S.-M. Cheng"
+  link:
+    url: https://arxiv.org/pdf/1805.11770.pdf
+    display: AAAI’19
+  highlight: 0
+  news2: 
+
+- title: "Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:blue'>S. Liu</span>, B. Kailkhura, P.-Y. Chen, P. Ting, S. Chang, L. Amini"
+  link:
+    url: https://arxiv.org/pdf/1805.10367.pdf
+    display: NeurIPS’18
+  highlight: 0
+  news2: 
+
+- title: "Ultra-Fast Robust Compressive Sensing Based on Memristor Crossbars"
+  image: dummy.png
+  description: ""
+  authors: 
+    "<span style='color:blue'>S. Liu</span>, A. Ren, Y. Wang, P. K. Varshney"
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7952333
+    display: ICASSP’17 (Best Student Paper Award, Third Place)
+  highlight: 0
+  news2: 
